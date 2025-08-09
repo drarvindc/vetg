@@ -1,0 +1,123 @@
+[2025-08-08 19:44:10] Starting fetch_pet.php
+[2025-08-08 19:44:10] Error: Invalid search term or type
+[2025-08-08 19:44:13] Starting fetch_pet.php
+[2025-08-08 19:44:13] Search type: unique_id, term: 250001
+[2025-08-08 19:44:13] Pet found: {"pet_id":"3","unique_id":"250001","pet_name":"Romeo Jainz","species":"Canine","breed":"German Shepard","gender":"Male","dob":"2018-05-05","pet_age_years":"7","pet_age_months":"3","pet_age_days":"13","first_name":"Arc","middle_name":"S","last_name":"Singh","locality":"Warje","mobile_numbers":["9867999773"],"qr_path":"uploads\/qr\/250001.png","barcode_path":"uploads\/barcode\/250001.png"}
+[2025-08-08 19:44:15] Starting fetch_pet.php
+[2025-08-08 19:44:15] Search type: unique_id, term: 250001
+[2025-08-08 19:44:15] Pet found: {"pet_id":"3","unique_id":"250001","pet_name":"Romeo Jainz","species":"Canine","breed":"German Shepard","gender":"Male","dob":"2018-05-05","pet_age_years":"7","pet_age_months":"3","pet_age_days":"13","first_name":"Arc","middle_name":"S","last_name":"Singh","locality":"Warje","mobile_numbers":["9867999773"],"qr_path":"uploads\/qr\/250001.png","barcode_path":"uploads\/barcode\/250001.png"}
+[2025-08-08 19:44:27] Starting fetch_pet.php
+[2025-08-08 19:44:27] Search type: mobile, term: 9867999773
+[2025-08-08 19:44:27] Pet found: {"pet_id":"3","unique_id":"250001","pet_name":"Romeo Jainz","species":"Canine","breed":"German Shepard","gender":"Male","dob":"2018-05-05","pet_age_years":"7","pet_age_months":"3","pet_age_days":"13","first_name":"Arc","middle_name":"S","last_name":"Singh","locality":"Warje","mobile_numbers":["9867999773"],"qr_path":"uploads\/qr\/250001.png","barcode_path":"uploads\/barcode\/250001.png"}
+[2025-08-08 19:49:01] Starting plans/get_plans.php
+[2025-08-08 19:49:01] Plans fetched: 3
+[2025-08-08 19:49:01] Starting plans/get_plans.php
+[2025-08-08 19:49:01] Plans fetched: 3
+[2025-08-08 19:49:04] Starting plans/delete_plan.php
+[2025-08-08 19:49:04] Deleting plan: plan_id=21
+[2025-08-08 19:49:04] Plan deleted: plan_id=21
+[2025-08-08 19:49:04] Starting plans/get_plans.php
+[2025-08-08 19:49:04] Plans fetched: 2
+[2025-08-08 19:52:16] Starting plans/get_plans.php
+[2025-08-08 19:52:16] Plans fetched: 2
+[2025-08-08 19:52:16] Starting plans/get_plans.php
+[2025-08-08 19:52:16] Plans fetched: 2
+[2025-08-08 19:56:37] Starting plans/get_plans.php
+[2025-08-08 19:56:37] Plans fetched: 2
+[2025-08-08 19:56:37] Starting plans/get_plans.php
+[2025-08-08 19:56:37] Plans fetched: 2
+[2025-08-08 20:00:50] Starting fetch_pet.php
+[2025-08-08 20:00:50] Search type: unique_id, term: 250001
+[2025-08-08 20:00:50] Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jholin_app.Contacts' doesn't exist
+[2025-08-08 20:01:57] Starting fetch_pet.php
+[2025-08-08 20:01:57] Search type: name, term: 250001
+[2025-08-08 20:01:57] Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jholin_app.Contacts' doesn't exist
+[2025-08-08 20:02:02] Starting fetch_pet.php
+[2025-08-08 20:02:02] Search type: unique_id, term: 250001
+[2025-08-08 20:02:02] Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jholin_app.Contacts' doesn't exist
+[2025-08-08 20:02:02] Starting fetch_pet.php
+[2025-08-08 20:02:02] Search type: unique_id, term: 250001
+[2025-08-08 20:02:02] Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'jholin_app.Contacts' doesn't exist
+[2025-08-08 20:04:21] Starting fetch_pet.php
+[2025-08-08 20:04:21] Search type: unique_id, term: 250001
+[2025-08-08 20:04:21] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.mobile_number' in 'SELECT'
+[2025-08-08 20:05:25] Starting fetch_pet.php
+[2025-08-08 20:05:25] Search type: mobile, term: 9867999773
+[2025-08-08 20:05:25] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.mobile_number' in 'SELECT'
+[2025-08-08 20:14:06] Starting fetch_pet.php
+[2025-08-08 20:14:06] Search type: unique_id, term: 250001
+[2025-08-08 20:14:06] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.mobile_number' in 'SELECT'
+[2025-08-08 20:16:19] Starting fetch_pet.php
+[2025-08-08 20:16:19] Search type: unique_id, term: 250001
+[2025-08-08 20:16:19] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.mobile_number' in 'SELECT'
+[2025-08-08 20:21:45] Starting fetch_pet.php
+[2025-08-08 20:21:45] Search type: mobile, term: 9867999773
+[2025-08-08 20:21:45] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.mobile_number' in 'SELECT'
+[2025-08-08 20:21:47] Starting fetch_pet.php
+[2025-08-08 20:21:47] Search type: mobile, term: 9867999773
+[2025-08-08 20:21:47] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.mobile_number' in 'SELECT'
+[2025-08-08 20:21:54] Starting fetch_pet.php
+[2025-08-08 20:21:54] Search type: mobile, term: 9867999773
+[2025-08-08 20:21:54] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.mobile_number' in 'SELECT'
+[2025-08-08 20:22:15] Starting fetch_pet.php
+[2025-08-08 20:22:15] Search type: mobile, term: 9867999773
+[2025-08-08 20:22:15] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.mobile_number' in 'SELECT'
+[2025-08-08 20:22:19] Starting plans/get_plans.php
+[2025-08-08 20:22:19] Plans fetched: 1
+[2025-08-08 20:22:19] Starting plans/get_plans.php
+[2025-08-08 20:22:19] Plans fetched: 1
+[2025-08-08 20:56:26] Starting fetch_pet.php
+[2025-08-08 20:56:26] Search type: unique_id, term: 250001
+[2025-08-08 20:56:26] Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.mobile_number' in 'SELECT'
+[2025-08-08 20:57:14] Starting fetch_pet.php
+[2025-08-08 20:57:14] Search type: unique_id, term: 250001
+[2025-08-08 20:57:14] Pet found: {"pet_id":"3","unique_id":"250001","pet_name":"Romeo Jainz","species":"Canine","breed":"German Shepard","gender":"Male","dob":"2018-05-05","pet_age_years":"7","pet_age_months":"3","pet_age_days":"96","first_name":"Arc","middle_name":"S","last_name":"Singh","locality":"Warje","qr_path":"uploads\/qr\/250001.png","barcode_path":"uploads\/barcode\/250001.png","mobile_numbers":[]}
+[2025-08-08 20:58:19] Starting fetch_pet.php
+[2025-08-08 20:58:19] Search type: unique_id, term: 250001
+[2025-08-08 20:58:19] Pet found: {"pet_id":"3","unique_id":"250001","pet_name":"Romeo Jainz","species":"Canine","breed":"German Shepard","gender":"Male","dob":"2018-05-05","pet_age_years":"7","pet_age_months":"3","pet_age_days":"96","first_name":"Arc","middle_name":"S","last_name":"Singh","locality":"Warje","qr_path":"uploads\/qr\/250001.png","barcode_path":"uploads\/barcode\/250001.png","mobile_numbers":[]}
+[2025-08-08 20:58:19] Starting plans/get_schedules.php
+[2025-08-08 20:58:19] Error: Pet ID required
+[2025-08-08 20:58:19] Starting plans/get_plans.php
+[2025-08-08 20:58:19] Plans fetched: 1
+[2025-08-08 20:58:19] Starting plans/get_plans.php
+[2025-08-08 20:58:19] Plans fetched: 1
+[2025-08-08 20:59:15] Starting fetch_pet.php
+[2025-08-08 20:59:15] Search type: unique_id, term: 250001
+[2025-08-08 20:59:15] Pet found: {"pet_id":"3","unique_id":"250001","pet_name":"Romeo Jainz","species":"Canine","breed":"German Shepard","gender":"Male","dob":"2018-05-05","pet_age_years":"7","pet_age_months":"3","pet_age_days":"96","first_name":"Arc","middle_name":"S","last_name":"Singh","locality":"Warje","mobile_numbers":["9867999773"],"qr_path":"uploads\/qr\/250001.png","barcode_path":"uploads\/barcode\/250001.png"}
+[2025-08-08 20:59:15] Starting plans/get_schedules.php
+[2025-08-08 20:59:15] Error: Pet ID required
+[2025-08-08 20:59:15] Starting plans/get_plans.php
+[2025-08-08 20:59:15] Plans fetched: 1
+[2025-08-08 20:59:16] Starting plans/get_plans.php
+[2025-08-08 20:59:16] Plans fetched: 1
+[2025-08-08 21:24:52] Starting fetch_pet.php
+[2025-08-08 21:24:52] Search type: unique_id, term: 250001
+[2025-08-08 21:24:52] Pet found: {"pet_id":"3","unique_id":"250001","pet_name":"Romeo Jainz","species":"Canine","breed":"German Shepard","gender":"Male","dob":"2018-05-05","pet_age_years":"7","pet_age_months":"3","pet_age_days":"96","first_name":"Arc","middle_name":"S","last_name":"Singh","locality":"Warje","mobile_numbers":["9867999773"],"qr_path":"uploads\/qr\/250001.png","barcode_path":"uploads\/barcode\/250001.png"}
+[2025-08-08 21:25:03] Starting plans/get_plans.php
+[2025-08-08 21:25:03] Plans fetched: 1
+[2025-08-08 21:25:03] Starting plans/get_plans.php
+[2025-08-08 21:25:03] Plans fetched: 1
+[2025-08-08 21:26:33] Starting plans/get_plans.php
+[2025-08-08 21:26:33] Plans fetched: 1
+[2025-08-08 21:26:33] Starting plans/get_plans.php
+[2025-08-08 21:26:33] Plans fetched: 1
+[2025-08-08 21:26:36] Starting plans/get_plans.php
+[2025-08-08 21:26:36] Plans fetched: 1
+[2025-08-08 21:26:36] Starting plans/get_plans.php
+[2025-08-08 21:26:36] Plans fetched: 1
+[2025-08-08 21:26:51] Starting plans/get_plans.php
+[2025-08-08 21:26:51] Plans fetched: 1
+[2025-08-08 21:26:51] Starting plans/get_plans.php
+[2025-08-08 21:26:51] Plans fetched: 1
+[2025-08-08 21:27:02] Starting fetch_pet.php
+[2025-08-08 21:27:02] Search type: unique_id, term: 250001
+[2025-08-08 21:27:02] Pet found: {"pet_id":"3","unique_id":"250001","pet_name":"Romeo Jainz","species":"Canine","breed":"German Shepard","gender":"Male","dob":"2018-05-05","pet_age_years":"7","pet_age_months":"3","pet_age_days":"96","first_name":"Arc","middle_name":"S","last_name":"Singh","locality":"Warje","mobile_numbers":["9867999773"],"qr_path":"uploads\/qr\/250001.png","barcode_path":"uploads\/barcode\/250001.png"}
+[2025-08-09 08:45:14] Starting plans/get_plans.php
+[2025-08-09 08:45:14] Plans fetched: 1
+[2025-08-09 08:45:26] Starting plans/get_plans.php
+[2025-08-09 08:45:26] Plans fetched: 1
+[2025-08-09 08:45:26] Starting plans/get_plans.php
+[2025-08-09 08:45:26] Plans fetched: 1
+[2025-08-09 15:31:40] Starting fetch_pet.php
+[2025-08-09 15:31:40] Search type: unique_id, term: 250001
+[2025-08-09 15:31:40] Pet found: {"pet_id":"3","unique_id":"250001","pet_name":"Romeo Jainz","species":"Canine","breed":"German Shepard","gender":"Male","dob":"2018-05-05","pet_age_years":"7","pet_age_months":"3","pet_age_days":"96","first_name":"Arc","middle_name":"S","last_name":"Singh","locality":"Warje","mobile_numbers":["9867999773"],"qr_path":"uploads\/qr\/250001.png","barcode_path":"uploads\/barcode\/250001.png"}
