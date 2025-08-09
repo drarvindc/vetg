@@ -50,10 +50,10 @@ try {
                   FROM Pets p
                   JOIN Owners o ON p.owner_id = o.owner_id
                   JOIN Mobile_Numbers m ON o.owner_id = m.owner_id
-                  WHERE m.mobile_number = ?
+                  WHERE m.mobile_number = ? AND p.unique_id != ?
                   GROUP BY p.pet_id";
         $stmt = $pdo->prepare($query);
-        $stmt->execute([$search_term]);
+        $stmt->execute([$search_term, $search_term]);
     } else {
         throw new Exception('Invalid search type');
     }
